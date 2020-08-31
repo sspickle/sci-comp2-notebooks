@@ -1,0 +1,10 @@
+Cython
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+sympy
+tensorflow
+xlrd
+openpyxl
